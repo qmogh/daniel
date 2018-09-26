@@ -9,6 +9,9 @@ body {
   color: azure;
 }
 
-#About{
-  text-align: center;
-}
+#link {
+    position:fixed;
+    bottom:0;
+    text-align:left;
+    z-index: 200;
+  }
