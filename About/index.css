@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: "Arial";
+  background: pink;
+  color: azure;
+}
+
+img {
+  width: 200px;
+}
+
+#About{
+  text-align: center;
+}
