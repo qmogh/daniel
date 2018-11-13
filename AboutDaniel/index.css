@@ -1,6 +1,3 @@
-#About{
-  text-align: center;
-}
 img {
   width: 200px;
 }
@@ -10,4 +7,8 @@ body {
   font-family: "Arial";
   background: pink;
   color: azure;
-}  
+}
+
+#About{
+  text-align: center;
+}
